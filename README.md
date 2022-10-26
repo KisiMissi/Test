@@ -6,7 +6,7 @@
 
 ## Входные данные<br/>
 - replacment.json. Путь к файлу с изменениями нужно указать в классе **RepJsonParser** в переменную _**REPLACEMENT_FILE_PATH**_<br/>
-- data.json. Файл c изменненым текстом получается получен с указанного [API](https://raw.githubusercontent.com/thewhitesoft/student-2022-assignment/main/data.json) с использованием HTTP GET запроса<br/>
+- data.json. Файл c изменненым текстом получается с указанного [API](https://raw.githubusercontent.com/thewhitesoft/student-2022-assignment/main/data.json) с использованием HTTP GET запроса<br/>
 
 ## Выходные данные<br/>
 -result.json. Содержит исправленные сообщения и содержать массив строк. Создается в одной директории с проектом.
